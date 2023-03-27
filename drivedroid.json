@@ -13,39 +13,40 @@
     ]
   },
   {
-    "id": "almalinux",
-    "name": "AlmaLinux",
-    "url": "https://almalinux.org",
+    "id": "Debian",
+    "name": "Debian",
+    "url": "https://www.debian.org/download",
     "releases": [
       {
         "arch": "amd64",
-        "size": 793847808,
-        "url": "https://mirror.yandex.ru/almalinux/9/isos/aarch64/AlmaLinux-9.1-aarch64-boot.iso",
-        "version": "9.1"
+        "size": 395313152,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Debian/debian-11.0.0-amd64-netinst.iso",
+        "version": "11.0.0"
       },
       {
         "arch": "amd64",
-        "size": 7148025856,
-        "url": "https://mirror.yandex.ru/almalinux/9/isos/aarch64/AlmaLinux-9.1-aarch64-dvd.iso",
-        "version": "9.1"
+        "size": 1151975424,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Debian/debian-live-11.5.0-amd64-standard.iso",
+        "version": "11.5.0"
+      }
+    ]
+  },
+  {
+    "id": "Windows",
+    "name": "Windows",
+    "url": "https://www.microsoft.com/zh-cn/software-download",
+    "releases": [
+      {
+        "arch": "x64",
+        "size": 4478906368,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Windows/cn_windows_10_enterprise_2019_ltsc_x64_dvd_9c09ff24.iso",
+        "version": "Windows10 2019 ltsc"
       },
       {
-        "arch": "amd64",
-        "size": 1443641344,
-        "url": "https://mirror.yandex.ru/almalinux/9/isos/aarch64/AlmaLinux-9.1-aarch64-minimal.iso",
-        "version": "9.1"
-      },
-      {
-        "arch": "amd64",
-        "size": 1443680256,
-        "url": "https://mirror.yandex.ru/almalinux/9/isos/aarch64/AlmaLinux-9.1-update-1-aarch64-minimal.iso",
-        "version": "9.1"
-      },
-      {
-        "arch": "amd64",
-        "size": 843642880,
-        "url": "https://mirror.yandex.ru/almalinux/9/isos/ppc64le/AlmaLinux-9.1-ppc64le-boot.iso",
-        "version": "9.1"
+        "arch": "arm64",
+        "size": 5719896064,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Windows/SW_DVD9_Win_Pro_11_22H2_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X23-12755.ISO",
+        "version": "Windows11 22H2"
       }
     ]
   }

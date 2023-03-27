@@ -1,14 +1,14 @@
 [
   {
-    "id": "absolute",
-    "name": "Absolute Linux",
-    "url": "https://absolutelinux.org",
+    "id": "PE",
+    "name": "FirPE",
+    "url": "https://firpe.cn/page-247",
     "releases": [
       {
         "arch": "x86_64",
-        "size": 2837616640,
-        "url": "https://slackware.uk/absolute/absolute64-20230122.iso",
-        "version": "20230122"
+        "size": 1073741824,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/PE/pe.img",
+        "version": "1.8.2"
       }
     ]
   },

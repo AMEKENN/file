@@ -5,10 +5,10 @@
     "url": "",
     "releases": [
       {
-        "arch": "x86",
+        "arch": "x86_64",
         "size": 4712300544,
         "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/CentOS/CentOS-7-x86_64-DVD-2009.iso",
-        "version": "7  64 DVD 2009"
+        "version": "7 64 DVD 2009"
       }
     ]
   },
@@ -18,16 +18,16 @@
     "url": "",
     "releases": [
       {
-        "arch": "x64",
+        "arch": "amd64",
         "size": 395313152,
         "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Debian/debian-11.0.0-amd64-netinst.iso",
-        "version": "11.0.0 amd64 netinst"
+        "version": "11.0.0 netinst"
       },
       {
-        "arch": "x64",
+        "arch": "amd64",
         "size": 1151975424,
         "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Debian/debian-live-11.5.0-amd64-standard.iso",
-        "version": "live 11.5.0 amd64 standard"
+        "version": "live 11.5.0 standard"
       }
     ]
   },
@@ -56,10 +56,10 @@
     "url": "",
     "releases": [
       {
-        "arch": "x64",
+        "arch": "amd64",
         "size": 577765376,
         "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/openmediavault/openmediavault_5.0.5-amd64.iso",
-        "version": "5.0.5 amd64"
+        "version": "5.0.5 "
       }
     ]
   },

@@ -1,52 +1,116 @@
 [
   {
-    "id": "PE",
-    "name": "FirPE",
-    "url": "https://firpe.cn/page-247",
+    "id": "CentOS",
+    "name": "CentOS",
+    "url": "",
     "releases": [
       {
-        "arch": "x86_64",
-        "size": 1073741824,
-        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/PE/pe.img",
-        "version": "1.8.2"
+        "arch": "x86",
+        "size": 4712300544,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/CentOS/CentOS-7-x86_64-DVD-2009.iso",
+        "version": "7  64 DVD 2009"
       }
     ]
   },
   {
     "id": "Debian",
     "name": "Debian",
-    "url": "https://www.debian.org/download",
+    "url": "",
     "releases": [
       {
-        "arch": "amd64",
+        "arch": "x64",
         "size": 395313152,
         "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Debian/debian-11.0.0-amd64-netinst.iso",
-        "version": "11.0.0"
+        "version": "11.0.0 amd64 netinst"
       },
       {
-        "arch": "amd64",
+        "arch": "x64",
         "size": 1151975424,
         "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Debian/debian-live-11.5.0-amd64-standard.iso",
-        "version": "11.5.0"
+        "version": "live 11.5.0 amd64 standard"
+      }
+    ]
+  },
+  {
+    "id": "ESXi",
+    "name": "ESXi",
+    "url": "",
+    "releases": []
+  },
+  {
+    "id": "iKuai",
+    "name": "iKuai",
+    "url": "",
+    "releases": [
+      {
+        "arch": "x64",
+        "size": 43118592,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/iKuai/iKuai_x64_3.3.2_Build202001091117.iso",
+        "version": "3.3.2 Build202001091117"
+      }
+    ]
+  },
+  {
+    "id": "openmediavault",
+    "name": "openmediavault",
+    "url": "",
+    "releases": [
+      {
+        "arch": "x64",
+        "size": 577765376,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/openmediavault/openmediavault_5.0.5-amd64.iso",
+        "version": "5.0.5 amd64"
+      }
+    ]
+  },
+  {
+    "id": "PE",
+    "name": "PE",
+    "url": "",
+    "releases": [
+      {
+        "arch": "x64",
+        "size": 1073741824,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/PE/FirPE.img",
+        "version": "Fir"
+      }
+    ]
+  },
+  {
+    "id": "TrueNAS",
+    "name": "TrueNAS",
+    "url": "",
+    "releases": [
+      {
+        "arch": "x64",
+        "size": 1740326912,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/TrueNAS/TrueNAS-SCALE-22.12.2.iso",
+        "version": "SCALE 22.12.2"
       }
     ]
   },
   {
     "id": "Windows",
     "name": "Windows",
-    "url": "https://www.microsoft.com/zh-cn/software-download",
+    "url": "",
     "releases": [
       {
         "arch": "x64",
+        "size": 3821895680,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Windows/windows_10_enterprise_2016_ltsb_x64.iso",
+        "version": "10 enterprise 2016 ltsb "
+      },
+      {
+        "arch": "x64",
         "size": 4478906368,
-        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Windows/cn_windows_10_enterprise_2019_ltsc_x64_dvd_9c09ff24.iso",
-        "version": "Windows10 2019 ltsc"
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Windows/windows_10_enterprise_2019_ltsc_x64.iso",
+        "version": "10 enterprise 2019 ltsc "
       },
       {
         "arch": "arm64",
         "size": 5719896064,
-        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Windows/SW_DVD9_Win_Pro_11_22H2_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X23-12755.ISO",
-        "version": "Windows11 22H2"
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/Windows/windows_11_pro_22H2_arm64.iso",
+        "version": "11 pro 22H2 "
       }
     ]
   }

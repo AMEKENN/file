@@ -8,7 +8,7 @@
         "arch": "x86_64",
         "size": 4712300544,
         "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/CentOS/CentOS-7-x86_64-DVD-2009.iso",
-        "version": "7 64 DVD 2009"
+        "version": "7 DVD 2009"
       }
     ]
   },
@@ -35,7 +35,14 @@
     "id": "ESXi",
     "name": "ESXi",
     "url": "",
-    "releases": []
+    "releases": [
+      {
+        "arch": "x86_64",
+        "size": 628895744,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/ESXi/ESXi-8.0U1-21495797-x86_64.iso",
+        "version": "8.0U1 21495797 "
+      }
+    ]
   },
   {
     "id": "iKuai",
@@ -47,19 +54,25 @@
         "size": 43118592,
         "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/iKuai/iKuai_x64_3.3.2_Build202001091117.iso",
         "version": "3.3.2 Build202001091117"
+      },
+      {
+        "arch": "x64",
+        "size": 53966848,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/iKuai/iKuai_x64_3.7.3_Build202305301310.iso",
+        "version": "3.7.3 Build202305301310"
       }
     ]
   },
   {
-    "id": "openmediavault",
-    "name": "openmediavault",
+    "id": "OpenWrt",
+    "name": "OpenWrt",
     "url": "",
     "releases": [
       {
-        "arch": "amd64",
-        "size": 577765376,
-        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/openmediavault/openmediavault_5.0.5-amd64.iso",
-        "version": "5.0.5 "
+        "arch": "x86_64",
+        "size": 2550955520,
+        "url": "https://AMEKENN:08111805@alist.ameke.cn/dav/OneDrive/TrueNAS/系统/镜像/OpenWrt/istoreos-21.02.3-2023060914-x86_64-squashfs-combined-efi.img",
+        "version": "istoreos 21.02.3 2023060914 squashfs combined efi"
       }
     ]
   },
